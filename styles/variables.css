@@ -12,9 +12,6 @@
     --font-size-header-text: clamp(49px, calc(49px + (65 - 49) * ((100vw - 375px) / (1440 - 375))), 65px);
     --font-size-header-title: clamp(14px, calc(14px + (23 - 14) * ((100vw - 375px) / (1440 - 375))), 23px);
 
-    --font-weight-base: 'wdth' 400;
-    --font-weight-accent: 'wdth' 785;
-
     --custom-bg-gradient: 
         repeating-linear-gradient(to right,#d3d3d3 0 2px, transparent 2px 4px),
         repeating-linear-gradient(to bottom,#d3d3d3 0 2px, transparent 2px 4px),
